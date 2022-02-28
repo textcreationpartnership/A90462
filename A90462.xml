@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect declaration of the armie agreed upon at their late rendezvouz. Sent up to the Parliament by Sir Thomas Fairfax, on Thursday last, and certain propositions or particulars, wherein the army desire to be further satisfied. With the protestation of Sir Thomas Fairfax. And his orders for the security of his Majesties person. Also the copies of two letters from the new commissioners coming from the Parliament to the army, and of the further treaty, and the souldiers resolution.</title>
+            <author>England and Wales. Army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90462</idno>
+            <idno type="STC">Wing P1483</idno>
+            <idno type="STC">Thomason E392_14</idno>
+            <idno type="STC">ESTC R201567</idno>
+            <idno type="EEBO-CITATION">99862067</idno>
+            <idno type="PROQUEST">99862067</idno>
+            <idno type="VID">160279</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90462)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160279)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E392[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect declaration of the armie agreed upon at their late rendezvouz. Sent up to the Parliament by Sir Thomas Fairfax, on Thursday last, and certain propositions or particulars, wherein the army desire to be further satisfied. With the protestation of Sir Thomas Fairfax. And his orders for the security of his Majesties person. Also the copies of two letters from the new commissioners coming from the Parliament to the army, and of the further treaty, and the souldiers resolution.</title>
+                  <author>England and Wales. Army.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>J. H.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B.A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Also includes a letter dated and signed: Cambridge Juen 7. 1647. at 9 at night. J.H.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on Thomason copy: "June 12th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160279:1" rendition="simple:additions"/>
+            <p>A Perfect DECLARATION OF THE ARMIE Agreed upon at their late Rendezvouz.</p>
+            <p>Sent up to the Parliament by Sir <hi>Thomas Fairfax,</hi> on <hi>Thurſday</hi> laſt, and certain Propoſitions or particulars, wherein the Army deſire to be further ſatisfied.</p>
+            <p>With the <hi>Proteſtation</hi> of Sir <hi>Thomas Fairfax.</hi> And his Or<g ref="char:EOLhyphen"/>ders for the ſecurity of his Majeſties perſon.</p>
+            <p>Alſo the Copies of two Letters from the new Commiſſio<g ref="char:EOLhyphen"/>ners coming from the Parliament to the Army, and of the further treaty, and the Souldiers Reſolution.</p>
+            <p>
+               <hi>London</hi> Printed for <hi>B. A.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160279:2"/>
+            <pb facs="tcp:160279:2"/>
+            <head>PAPERS FROM THE ARMY</head>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I Believe before this will have the happi<g ref="char:EOLhyphen"/>neſſe to come to your hands, you will hear that the King is come to <hi>Newmarket,</hi> which intelligence may unto you in re<g ref="char:EOLhyphen"/>ſpect of diſtance of place fore-run that which was precedent in point of time, <hi>viz.</hi>
+               </p>
+               <pb facs="tcp:160279:3"/>
+               <p>The Declaration of the Army which by the next you will receive at large. At the laſt Randezvouz the Souldiery entred into a ſo<g ref="char:EOLhyphen"/>lemn Engagement, and a kind of League, which tends only to get grievances redreſ<g ref="char:EOLhyphen"/>ſed, at which time we underſtood not that the Parl. had proceeded ſo farre, as we ſince are advertized they have, for had the Army received certain knowledge of the late De<g ref="char:EOLhyphen"/>claration upon the Oroinance of Indemp<g ref="char:EOLhyphen"/>nity, and ſome other things, there had at leaſt bin ſomthing altered, if not left out of the papers which were then agreed on, and ſince preſented to the Houſe.</p>
+               <p>On <hi>Wedneſday</hi> laſt his Maj. attended with two Regiments of horſe went from the L. <hi>Cuts</hi> her houſe near <hi>Cambridge</hi> to <hi>Newmarket,</hi> where his Maj. did earneſtly deſire to reſide, for though he ſaith, he was carryed from <hi>Holmby</hi> againſt his mind, yet would he not return thither again, except he were forced. Whereupon the Gen. deſired to be advertiſed by the Commiſſioners, who were all ſenſi<g ref="char:EOLhyphen"/>ble of the inconveniency of the place wher<g ref="char:EOLhyphen"/>in his Maj. now recided; yet ſaid, they could not give any advice in this buſineſſe, for
+<pb facs="tcp:160279:3"/>that their powhr was extinct at his Majeſt<g ref="char:EOLhyphen"/>ies being taken away from <hi>Holmby,</hi> and af<g ref="char:EOLhyphen"/>ter ſome further debate between the Com<g ref="char:EOLhyphen"/>miſſioners, and his Excellency Sir <hi>T. Fairfax</hi> the ſaid Commiſſioners ſhewing an appro<g ref="char:EOLhyphen"/>bation to his Maj. removal to <hi>Newmarket,</hi> &amp; his Excellency gave order to Col. <hi>Whalley,</hi> as followeth:</p>
+               <floatingText xml:lang="eng" type="orders">
+                  <body>
+                     <p>Col. Whalley, I deſire you to attend his Maj. and the Commiſsioners with your own Re<g ref="char:EOLhyphen"/>giment and the Lieutenant Generals to Newmarket.</p>
+                     <closer>
+                        <dateline>Given under my hand at <hi>Cambridge,</hi> 
+                           <date>
+                              <hi>June</hi> 8. 1647.</date>
+                        </dateline>
+                        <signed>T. FAIRFAX.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="letter">
+               <head>Another Letter from the Army.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>AT his Majeſties coming to <hi>Newmar<g ref="char:EOLhyphen"/>ket,</hi> by the way as he marched thither from the Lady <hi>Cuts</hi> houſe, in ſome Villages as he paſt, the people ſtrewed the ways with boughs, green ruſhes, and the like, making ſome acclamations of joy.</p>
+               <p>The Earl of <hi>Nottingham</hi> and all the reſt of
+<pb facs="tcp:160279:4"/>The Commiſſioners from the Parliament are expected at <hi>Cambridge</hi> this night, and the Generall hath appointed a Randezvouz of the whole army on <hi>Triple Heath</hi> to morow where the whole matter of the proceeding of the Army will be ſet forth to the Com<g ref="char:EOLhyphen"/>miſſioners: there hath bin great queſtion made about the Kings being fetcht from <hi>Holmby,</hi> and ſome have not ſtvck to tel Cor<g ref="char:EOLhyphen"/>net <hi>Joyce</hi> that he deſerves to loſe that about his ſhoulders, for preſuming to act what he did in that buſines, the whole matter being examined before his Maj. and the Commiſſi<g ref="char:EOLhyphen"/>oners.</p>
+               <p>The Generall fearing ſome inconvenien<g ref="char:EOLhyphen"/>cy might happen, in caſe his Majeſty went through <hi>Cambridge,</hi> ſent to Colonell <hi>Whalley</hi> as he was on his march, to go ſome other way, which was done accordingly, and His Maieſty and the Commiſſioners came ſafe<g ref="char:EOLhyphen"/>ly thither the ſame night, where they found all things prepared, (as the time would ad<g ref="char:EOLhyphen"/>mit) for entertainment of perſons of that quality.</p>
+               <closer>
+                  <dateline>
+                     <hi>Cambridge</hi> 
+                     <date>
+                        <hi>June</hi> 7. 1647. <hi>at</hi> 9 <hi>at night.</hi>
+                     </date>
+                  </dateline>
+                  <signed>Yours, <hi>J. H.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb facs="tcp:160279:4"/>
+               <head>Certain Heads of the Souldiers Declaration and Propoſitions, whereof the Papers at large were ſent up to the Houſe, encloſed in a Letter from Sir <hi>Thomas Fairfax</hi> on Munday laſt.</head>
+               <p>
+                  <hi>FIrſt, that they have with great hazzard and difficulty faithfully diſcharged their duties (as ſouldiers) to this Kingdome in its greateſt extremity.</hi> 2. <hi>That they deſire to prevent ſu<g ref="char:EOLhyphen"/>ture inconveniencies, and that there may be peace in the Kingdome.</hi>
+               </p>
+               <p n="3">3. <hi>That their grievances being redreſſed, they ſhall willingly and readily disband, or bee other<g ref="char:EOLhyphen"/>wiſe dispoſed of, according to the pleaſure of the two Houſes of Parliament.</hi>
+               </p>
+               <p n="4">4. <hi>That what hath bin already acted by them this way, is for the good of the Kingdome, and their owne ſafety.</hi>
+               </p>
+               <p n="5">5. <hi>That what was agreed upon, as the Reſalt of the whole Army, they will not receed from, but that it ſhall be binding as the unanimous act of every man.</hi>
+               </p>
+               <p>But more particularly the Declaration and Engagement of the army, unanimouſly agreed on, is in theſe words, viz.</p>
+               <pb facs="tcp:160279:5"/>
+               <p>WHereas upon the Report made to the houſe of <hi>Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>mons</hi> on Fryday <hi>May</hi> 21. concerning the grievan<g ref="char:EOLhyphen"/>ces of the Army. That houſe was pleaſed to paſſe ſeverall Votes ſeeming to tend towards the ſatisfaction of the Ar<g ref="char:EOLhyphen"/>my in ſome particulars, and on the <hi>Tneſday</hi> following <hi>May</hi> 25 to paſſe divers Reſolutions upon a Report from the <hi>Com<g ref="char:EOLhyphen"/>mittee</hi> at Derby houſe, concerning the disbanding of the fo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of this Army, Wee humbly declare, that the ſaid Votes of Fryday do come far ſhort of ſatisfaction to the deſires pro<g ref="char:EOLhyphen"/>poſed by the Officers in the concluſion of their <hi>Narrative.</hi>
+               </p>
+               <p>On Munday laſt, the Generall proteſted as in the preſence of Almighty God, that for his own part he knew not of the deſign of bringing the King from <hi>Holmby,</hi> untill notice thereof came from the Randezvouze.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
